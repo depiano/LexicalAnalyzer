@@ -1,0 +1,1 @@
+if a>12.3 then if somma >= 30 then else if somma>nicola else ugo<1.2
